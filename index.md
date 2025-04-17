@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+ **I am a Ph.D. student in Economics at Queen Mary University of London.** 
 
-I am a Ph.D. student at ...
+# My research interests are in Labor Economics, Inequality and Development.
 
 ## Research Interests
 
