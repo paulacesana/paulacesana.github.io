@@ -9,7 +9,7 @@ layout: homepage
 
  You can contact me at [p.b.cesana@qmul.ac.uk](mailto:p.b.cesana@qmul.ac.uk)
 
- You can download my CV [here](https://github.com/paulacesana/paulacesana.github.io/blob/main/assets/files/pcesana_CV.pdf). <br><br>
+ You can download my CV [here](https://paulacesana.github.io/assets/files/pcesana_CV.pdf). <br><br>
 
 ## Working Papers 
 
