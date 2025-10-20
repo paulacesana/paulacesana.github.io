@@ -3,9 +3,11 @@ layout: homepage
 ---
  **Welcome!**
  
- **I am a Ph.D. student in Economics at Queen Mary University of London.** 
+ **I am a PhD candidate at Queen Mary University of London.** 
 
  **My research interests are in Labor Economics, Inequality and Development.**
+
+ **I am on the Economics Job Market 2025/26.** 
 
  You can contact me at [p.b.cesana@qmul.ac.uk](mailto:p.b.cesana@qmul.ac.uk)
 
@@ -28,12 +30,3 @@ This paper explores how differences in the adoption of task-biased technologies 
 </div>
 
 
-**Job Polarization and Occupational Mobility: Insights from Panel Data and Task Measures**
-<div align="justify">
- 
-This paper examines the dynamic characteristics of job polarization in the United States, with a focus on different patterns of occupational mobility across demographic groups from the 1980s
-onward. First, I categorize occupations into four broad groups and analyze occupation transitions using panel data from the Current Population Survey (CPS). The results indicate that the groups
-driving the growth in high-skilled occupations are not the same as those primarily affected by the decline in middle-skilled occupations. Second, using task information by occupation, I construct a Routine Task Intensity (RTI) index for each occupation, and examine its evolution across various demographic groups. A shift-share decomposition reveals that the within-group component plays a significant role in explaining the overall decline in RTI, particularly for
-certain demographic groups. Overall, this paper shows that focusing solely on between-group occupational transitions is insufficient to fully capture the process of job polarization and
-its full implications for different demographic groups. <br><br>
-</div>
