@@ -15,8 +15,7 @@ layout: homepage
 
 ## Working Papers 
 
-**Intergenerational Mobility in the Presence of Informal Labor Markets**
-
+**Intergenerational Mobility in the Presence of Informal Labor Markets** [draft](https://paulacesana.github.io/pcesana_jmp/pcesana_jmp_0911.pdf)
 <div align="justify">
 
 This paper studies intergenerational mobility in the context of Chile, an economy with a significant informal labor market. Using longitudinal data, I document two key empirical facts. First, labor informality is associated with higher income uncertainty. Second, the share of time individuals spend in informal employment is correlated with parental background, suggesting a positive association in labor informality across generations. Moreover, I show most of this association can be explained by substantial intergenerational persistence in education and occupations. I then propose and estimate a model of human capital investment and occupation choice under uncertainty to quantitatively assess the role of the income uncertainty channel in intergenerational mobility, namely, persistence in education and occupations, and in labor informality. In the model, higher income uncertainty reduces parental investment in children’s human capital, limiting access to higher-skilled occupations,which are also less affected by informality. I show that reducing parental income risk in informal employment increases the share of educated individuals and enhances upward mobility. These findings underscore how labor informality can shape future labor market outcomes and perpetuate barriers to intergenerational mobility.
