@@ -3,13 +3,13 @@ layout: homepage
 ---
  **Welcome!**
  
- **I am a PhD candidate at Queen Mary University of London.** 
+ **I am a Senior Economist at the National Bank of Slovakia.**
+ 
+ **I received my PhD from Queen Mary University of London.** 
 
  **My research interests are in Labor Economics, Inequality and Development.**
 
- **I am on the Economics Job Market 2025/26.** 
-
- You can contact me at [p.b.cesana@qmul.ac.uk](mailto:p.b.cesana@qmul.ac.uk)
+ You can contact me at [paulabelen.cesana@nbs.sk](mailto:paulabelen.cesana@nbs.sk)
 
  You can download my CV [here](https://paulacesana.github.io/assets/files/pcesana_cv.pdf). <br><br>
 
