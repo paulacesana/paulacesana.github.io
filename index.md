@@ -11,7 +11,7 @@ layout: homepage
 
  You can contact me at [paulabelen.cesana@nbs.sk](mailto:paulabelen.cesana@nbs.sk)
 
- You can download my CV [here](https://paulacesana.github.io/assets/files/pcesana_cv.pdf). <br><br>
+ You can find my CV [here](https://paulacesana.github.io/assets/files/pcesana_cv.pdf). <br><br>
 
 ## Working Papers 
 
